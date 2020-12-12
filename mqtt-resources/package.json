@@ -1,0 +1,27 @@
+{
+  "name": "mqttjs-javascript",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of MQTT using MQTT.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junreycloudstrife/mqttjs-javascript.git"
+  },
+  "keywords": [
+    "MQTT",
+    "MQTT.js",
+    "mqttjs"
+  ],
+  "author": "Jun Rey Ansing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junreycloudstrife/mqttjs-javascript/issues"
+  },
+  "homepage": "https://github.com/junreycloudstrife/mqttjs-javascript#readme",
+  "dependencies": {
+    "mqtt": "^4.1.0"
+  }
+}
